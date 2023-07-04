@@ -45,7 +45,6 @@ fn main() {
             break;
         } else {
             println!("Oops kamu kalah! jawabannya: {}", random);
-            break;
         }
     }
 }
